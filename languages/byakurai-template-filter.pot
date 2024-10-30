@@ -1,0 +1,136 @@
+
+#. Description of the plugin/theme
+msgid "byakurai template filter is an add-on for the theme byakurai. This plugin automatically creates a page for editing each template. When you edit the body of the page for this template, the edited body is inserted instead of the original template parts of the theme."
+msgstr "byakurai template filterは、テーマ・byakurai専用アドオンです。このプラグインを利用すると、自動的に各テンプレートを編集するための固定ページが作成されます。このテンプレート用固定ページの本文を編集すると、テーマ本来のテンプレートパーツの代わりに、編集したその本文が挿入されます。"
+
+#: lib/constant.php:8
+msgid "byakuraitmp_header"
+msgstr "白雷tmp_ヘッダー"
+
+#: lib/constant.php:9
+msgid "byakuraitmp_header_lower"
+msgstr "白雷tmp_ヘッダー下"
+
+#: lib/constant.php:10
+msgid "byakuraitmp_side_left"
+msgstr "白雷tmp_サイドバー左"
+
+#: lib/constant.php:11
+msgid "byakuraitmp_side_right"
+msgstr "白雷tmp_サイドバー右"
+
+#: lib/constant.php:12
+msgid "byakuraitmp_footer"
+msgstr "白雷tmp_フッター"
+
+#: lib/constant.php:13
+msgid "byakuraitmp_front_header"
+msgstr "白雷tmp_フロントヘッダー"
+
+#: lib/constant.php:14
+msgid "byakuraitmp_front_header_lower"
+msgstr "白雷tmp_フロントヘッダー下"
+
+#: lib/constant.php:15
+msgid "byakuraitmp_front_side_left"
+msgstr "白雷tmp_フロントサイドバー左"
+
+#: lib/constant.php:16
+msgid "byakuraitmp_front_side_right"
+msgstr "白雷tmp_フロントサイドバー右"
+
+#: lib/constant.php:17
+msgid "byakuraitmp_front_footer"
+msgstr "白雷tmp_フロントフッター"
+
+#: lib/constant.php:18
+msgid "byakuraitmp_archive"
+msgstr "白雷tmp_アーカイブ"
+
+#: lib/constant.php:19
+msgid "byakuraitmp_search"
+msgstr "白雷tmp_検索結果ページ"
+
+#: lib/constant.php:20
+msgid "byakuraitmp_single・page_header"
+msgstr "白雷tmp_投稿・固定ページヘッダー"
+
+#: lib/constant.php:21
+msgid "byakuraitmp_single"
+msgstr "白雷tmp_投稿ページ"
+
+#: lib/constant.php:22
+msgid "byakuraitmp_single_side_left"
+msgstr "白雷tmp_投稿サイドバー左"
+
+#: lib/constant.php:23
+msgid "byakuraitmp_single_side_right"
+msgstr "白雷tmp_投稿サイドバー右"
+
+#: lib/constant.php:24
+msgid "byakuraitmp_page"
+msgstr "白雷tmp_固定ページ"
+
+#: lib/constant.php:25
+msgid "byakuraitmp_page_side_left"
+msgstr "白雷tmp_固定ページサイドバー左"
+
+#: lib/constant.php:26
+msgid "byakuraitmp_page_side_right"
+msgstr "白雷tmp_固定ページサイドバー右"
+
+#: lib/constant.php:27
+msgid "byakuraitmp_single_・page_footer"
+msgstr "白雷tmp_投稿・固定ページフッター"
+
+#: lib/constant.php:28
+msgid "byakuraitmp_404content"
+msgstr "白雷tmp_404本文"
+
+#: lib/constant.php:29
+msgid "byakuraitmp_home_index"
+msgstr "白雷tmp_ホーム（インデックス）"
+
+#: lib/hook.php:70 lib/hook.php:71
+msgid "Reusable Block"
+msgstr "再利用ブロック"
+
+#: lib/option.php:51
+msgid "Template regeneration"
+msgstr "テンプレート再生成"
+
+#: lib/option.php:61
+msgid "Speeding up settings"
+msgstr "高速化設定"
+
+#: lib/option.php:62
+msgid "*Do not use with other acceleration plug-ins at the same time."
+msgstr "※他の高速化プラグインを使用する場合はオプションを外してください。"
+
+#: lib/option.php:63
+msgid "*If the display is corrupted after use, uncheck the box and save the file again."
+msgstr "※使用後に表示が崩れた場合は、チェックを外して再度保存してください。"
+
+#: lib/option.php:69
+msgid "Combine theme CSS and block editor CSS for inline output"
+msgstr "テーマcssとブロックエディターcssを結合してインラインで出力する"
+
+#: lib/option.php:70
+msgid "Cancel loading of emoji set in WordPress"
+msgstr "WordPress標準の絵文字の読み込みをキャンセルする"
+
+#: lib/option.php:71
+msgid "WordPress icon fonts (dash icons) not loaded on front end"
+msgstr "WordPressのアイコンフォント（ダッシュアイコン）をフロントエンドで読み込まない"
+
+#: lib/option.php:80
+msgid "Submit"
+msgstr "送信"
+
+#: lib/template-tags.php:51
+msgid "Edit template left sidbar"
+msgstr "サイドバー左テンプレート編集"
+
+#: lib/template-tags.php:62
+msgid "Edit template right sidbar"
+msgstr "サイドバー右テンプレート編集"
